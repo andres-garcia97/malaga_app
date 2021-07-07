@@ -1,0 +1,1 @@
+web: gunicorn app_Malaga_Visual_Tool:server
